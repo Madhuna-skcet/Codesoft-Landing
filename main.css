@@ -1,0 +1,113 @@
+.main{
+  height: 60px;
+  width:100%;
+  color:purple;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+li,ul{
+  display: inline;
+  margin-right: 20px;
+  font-size: 20px;
+}
+/* Header styles */
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: purple;
+}
+.main{
+  background-color: black;
+}
+
+.name{
+  padding: 100px;
+  color:white;
+  text-align: left;
+  padding-left: 18%;
+  background-image: url('https://t4.ftcdn.net/jpg/05/32/27/51/360_F_532275175_XYkIzusERG8unr6zYXpZ7LDv8Xx6iPjz.jpg');
+}
+.Achivements
+{
+
+   background-repeat: no-repeat;
+   background-size: cover;
+     background-image: url('https://png.pngtree.com/background/20211215/original/pngtree-blue-and-purple-light-abstract-background-picture-image_1451510.jpg');
+   color:white;
+   padding: 75px;  
+   font-size: 20px;
+}
+.s1
+{
+  height: 225px;
+  width: 225px;
+  border: 6px white;
+     background-image: url('https://t3.ftcdn.net/jpg/06/11/14/00/360_F_611140074_oTkXVjSwBIDYepconjKpGnTTR4IQCA3q.jpg');
+
+  color: white;
+  padding-top: 5px;
+  border-radius: 10px;
+  text-align: center;
+
+}
+.s1:hover{
+  background-image: url('https://img.freepik.com/premium-photo/purple-blue-wave-with-colors-purple-pink-blue_950347-22148.jpg');
+
+  border-radius: 5px;
+  transform: scale(0.9);
+  transition: 0.8s;
+  border: 6px solid white;
+}
+.ach{
+  display:flex;
+ justify-content: space-around;
+   padding: 60px;
+}
+.image{
+  border-radius: 50%;
+}
+
+.skills
+{
+height: 250px;
+background-color: rgb(215, 215, 215);
+text-align: center;
+display:flex;
+justify-content: space-around; 
+
+}
+
+
